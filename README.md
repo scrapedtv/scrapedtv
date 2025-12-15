@@ -5,7 +5,7 @@
 **Minecraft Development · Discord Bots · Programming**
 
 Python · Java · JavaScript · Web Basics  
-Entwicklung für Server und Communities
+Entwicklung für Server und Discord Communitys
 
 </div>
 
