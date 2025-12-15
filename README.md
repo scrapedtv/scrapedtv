@@ -1,72 +1,82 @@
-# Hey, Im ScrapedTV!
-**Minecraft Plugins & Skripts | Python, JavaScript & Discord Bots | Web Dev**  
-Crafting secure, performant & creative solutions for servers & communities
+# 👋 Hey, ich bin ScrapedTV
 
----
+💻 Minecraft Plugins und Skripts  
+🐍 Python ☕ Java 🌐 Web Development  
+Ich entwickle Lösungen für Server und Communities
 
-## 🏷️ Tech Stack & Skills
-<details>
-<summary>Click to expand</summary>
+## 🧠 Skills und Tech Stack
 
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🐍 Python
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
 
-**Minecraft Development**  
-![Spigot](https://img.shields.io/badge/Spigot-ED2939?style=for-the-badge&logo=spigot&logoColor=white)
-![PaperMC](https://img.shields.io/badge/PaperMC-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAclBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+1TTGEAAAALHRSTlMAAQIDBAUGBwgJCgsMDQ4PEBESExQVFhcYGRobHB0eHyAiIyQlJicoKSorLC0uLzJcHzAAAAAWJLR0QAiAUdSAAAAAd0SU1FB+YIBhE5GDbhAcoAAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAAJUlEQVQY02NgIBIw0tJSA0VEQ0tFA1dDQ1NzE1NzU1MzMzCwMDAwMDAzACApHB9vR8IYAAAAAElFTkSuQmCC)
-**Skript (SK)** Scripts: Automations, Events, Gameplay Tweaks
+• Grundlagen und fortgeschrittene Konzepte  
+• Discord Bots mit PyCord  
+• Automatisierungen und Skripte  
+• API Anbindungen  
+• Sauberer und strukturierter Code  
 
-**Discord Bots & RTC**  
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-Bots mit Python (discord.py / nextcord / pycord), RTC, slash commands, moderation, alerts, Minecraft Server Integration
+### ☕ Java
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
-**Web & Tools**  
-Node.js, Express.js, REST APIs, Git, GitHub, CI/CD, Docker, VSCode, IntelliJ IDEA, Postman
+• Objektorientierte Programmierung  
+• Minecraft Entwicklung  
+• Eigene Clientmods mit Java 21  
+• Spigot und Fabric  
+• Grundlagen zu Performance und Sicherheit  
 
-</details>
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
----
+• HTML Struktur und Semantik  
+• CSS Layouts und Responsive Design  
+• JavaScript DOM Events Logik  
+• Kleine Webseiten und Tools  
 
-## 🎮 Highlights
-<details>
-<summary>Click to expand</summary>
+### ⛏️ Minecraft
+![Spigot](https://img.shields.io/badge/Spigot-ED2939?style=flat-square&logo=spigot&logoColor=white)
+![Fabric](https://img.shields.io/badge/Fabric-DBD0B4?style=flat-square&logoColor=black)
 
-- **Minecraft Plugins**: Admin Tools, Economy Systems, Minigames  
-- **Skript Scripts (SK)**: Automations, server events, gameplay tweaks  
-- **Discord Bots**: Moderation, Alerts, RTC-Funktionalität  
-- **Web Development**: Dashboards, server panels, APIs  
-- Fokus: **Sauberer, performanter, sicherer Code**
+• Eigene Clientmods mit Java 21  
+• Fabric Mod Entwicklung  
+• Eigene Server  
+• Spigot Plugins für Version 1.21.x  
+• Admin Tools  
+• Economy und Gameplay Systeme  
+• Skript SK  
+  • Automationen  
+  • Server Events  
+  • Gameplay Anpassungen  
 
-</details>
+### 🤖 Discord Bots
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
 
----
+• Entwicklung mit PyCord oder JavaScript  
+• Slash Commands  
+• Moderation Systeme  
+• Logs und Alerts  
+• Minecraft Server Integration  
 
-## 📊 GitHub Stats
-<details>
-<summary>Click to expand</summary>
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=scrpdtv&show_icons=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scrpdtv&layout=compact&theme=radical)
+• Git und GitHub  
+• VS Code und IntelliJ IDEA  
+• Strukturierter Workflow  
 
-</details>
+## 🎯 Fokus
 
----
+• Minecraft Plugins Clientmods und Skripts  
+• Discord Bots  
+• Automationen  
+• Verständlicher und wartbarer Code  
 
-## 📫 Contact
-<details>
-<summary>Click to expand</summary>
+## 💬 Kontakt und Aufträge
 
-Discord: **l0op2**  
-Email: scrpdtv@gmail.com
+📌 Personalisierte Aufträge gegen Bezahlung möglich  
+Bei Interesse an einem Plugin, einer Mod, Discord Bot oder Skriptplugins einfach per Discord melden
 
-</details>
-
----
-
-## 🔗 Quick Links
-[Plugins & Skripts](#) | [Discord Bots](#) | [Web Projects](#) | [Python Scripts](#)
+Discord l0op2  
+Email scrpdtv@gmail.com
