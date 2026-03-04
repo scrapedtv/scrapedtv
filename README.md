@@ -61,8 +61,6 @@ class ScrapedTV:
 
 ### `{ über mich }`
 
-<img align="left" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scrpdtv&layout=compact&bg_color=000000&border_color=1a3a1a&title_color=4ade80&text_color=9ca3af&hide_border=false&langs_count=8"/>
-
 Ich bin ScrapedTV und entwickle seit ein paar Jahren Sachen, die tatsächlich funktionieren.
 
 Angefangen mit Discord Bots, von Grund auf selbst aufgebaut. Eigene Datenbankanbindung, eigene Struktur, kein Copy Paste. Aktuell dev für **Cookie**, einem Feature-reichen Economy Bot.
@@ -72,8 +70,6 @@ Parallel dazu eigene Minecraft Plugins in Java mit der Spigot API und custom Skr
 Webseiten sind meine dritte Baustelle. Frontend ist meine Stärke, ich baue Seiten, die stylisch sind und eine gute UX haben. Backend läuft mit Node.js und Express.
 
 Für Projekte, Zusammenarbeit oder einfach nur Austausch, einfach schreiben.
-
-<br clear="left"/>
 
 <br/>
 
