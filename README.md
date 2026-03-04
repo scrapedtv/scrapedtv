@@ -15,15 +15,19 @@
 <a href="https://meloncity.de">
   <img src="https://img.shields.io/badge/%E2%9B%8F%EF%B8%8F%20meloncity.de-CityBuild-4ade80?style=for-the-badge&logo=minecraft&logoColor=white&labelColor=0a1a0a"/>
 </a>
+&nbsp;
+<a href="mailto:scrpdtv@gmail.com">
+  <img src="https://img.shields.io/badge/scrpdtv%40gmail.com-Kontakt-4ade80?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a1a0a"/>
+</a>
 
 <br/><br/>
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║  > Spezialisiert auf Discord Bots, MC Plugins            ║
-║  > und professionelle Web-Entwicklung                    ║
-║  > Kein Halbwissen — nur sauberer, produktionsreifer Code║
-╚══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║  Ich entwickle Discord Bots, Minecraft Plugins und Webseiten.   ║
+║  Kein Halbwissen. Kein Chaos. Sauberer, produktionsreifer Code. ║
+║  Für professionelle Anfragen gerne per Mail melden.             ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -38,25 +42,35 @@
 class ScrapedTV:
 
     fokus = [
-        "Discord Bots  — Pycord",
-        "MC Plugins    — Spigot API & Skript",
-        "Webseiten     — Frontend + Backend",
+        "Discord Bots  . Pycord",
+        "MC Plugins    . Spigot API, Skript",
+        "Webseiten     . Frontend + Backend",
     ]
 
     projekte = [
-        "Cookie        — Discord Economy Bot",
-        "MelonCity     — CityBuild MC Server",
+        "Cookie     . Discord Economy Bot",
+        "MelonCity  . CityBuild MC Server",
     ]
 
-    kontakt = {
-        "discord": "discord.gg/meloncity",
-        "mc_ip":   "meloncity.de",
-    }
+    kontakt = "scrpdtv@gmail.com"
+    verfügbar = "Auf Anfrage für Projekte"
 
     motto = "Kein Kompromiss bei der Qualität."
 ```
 
 <br clear="right"/>
+
+---
+
+### `$ about`
+
+Hey, ich bin ScrapedTV. Ich entwickle seit ein paar Jahren Discord Bots, Minecraft Plugins und Webseiten, und ich mache das richtig.
+
+Meine Bots sind keine Skripte aus dem Internet zusammengeklickt, sondern von Grund auf selbst entwickelt, mit sauberem Code, eigener Datenbankanbindung und ordentlicher Struktur. Beim Webbereich liegt mein Fokus auf Seiten, die nicht nur funktionieren, sondern auch gut aussehen. Frontend ist meine Stärke, Backend beherrsche ich genauso.
+
+Für MelonCity entwickle ich eigene Minecraft Plugins mit der Spigot API in Java sowie Skripts, die direkt auf dem Server laufen. Alles selbst, alles custom.
+
+Wer ein ernstes Projekt hat und einen zuverlässigen Entwickler sucht, kann mich gerne per Mail kontaktieren.
 
 ---
 
@@ -114,9 +128,9 @@ class ScrapedTV:
 
 ## 🍪 Cookie
 
-> Professioneller Discord Bot mit<br/>
-> vollem Economy-System, Discord Components V2,<br/>
-> Shop, Mini-Games, Events & mehr.
+Professioneller Discord Bot mit vollem Economy System,
+Discord Components V2, Shop, Mini Games, Events und mehr.
+Entwickelt für Tausende Nutzer, produktionsreif und stabil.
 
 <br/>
 
@@ -131,9 +145,9 @@ class ScrapedTV:
 
 ## 🍉 MelonCity
 
-> CityBuild Minecraft Server<br/>
-> mit vollständig selbst entwickelten<br/>
-> Plugins, Systemen & Skripts.
+CityBuild Minecraft Server mit vollständig selbst entwickelten
+Plugins und Skripts. Eigene Systeme, eigene Mechaniken,
+kein fertiges Framework.
 
 <br/>
 
@@ -146,6 +160,26 @@ class ScrapedTV:
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+### `$ contact`
+
+<div align="center">
+
+Für professionelle Anfragen, Projekte oder Zusammenarbeit gerne melden.
+
+<br/>
+
+<a href="mailto:scrpdtv@gmail.com">
+  <img src="https://img.shields.io/badge/scrpdtv%40gmail.com-Mail%20schreiben-4ade80?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a1a0a"/>
+</a>
+&nbsp;
+<a href="https://discord.gg/meloncity">
+  <img src="https://img.shields.io/badge/MelonCity%20Discord-Beitreten-4ade80?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a1a0a"/>
+</a>
 
 </div>
 
