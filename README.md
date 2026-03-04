@@ -173,9 +173,6 @@ Webseiten sind meine dritte Baustelle. Frontend ist meine Stärke, ich baue Seit
 
 <div align="center">
 
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=scrpdtv&repo=cookie&bg_color=000000&border_color=1a3a1a&title_color=4ade80&text_color=9ca3af&icon_color=4ade80&description_lines_count=3" />
-</a>
 
 </div>
 
@@ -242,11 +239,11 @@ CityBuild Minecraft Server mit vollständig selbst entwickelten Plugins in Java 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=scrpdtv&theme=dark&background=000000&border=1a3a1a&ring=4ade80&fire=4ade80&currStreakLabel=4ade80&sideLabels=6b7280&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff" width="500"/>
+<img src="https://streak-stats.demolab.com?user=scrpdtv&theme=dark&background=000000&border=1a3a1a&ring=4ade80&fire=4ade80&currStreakLabel=4ade80&sideLabels=6b7280&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff" width="500"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=scrpdtv&bg_color=000000&color=4ade80&line=4ade80&point=ffffff&area=true&area_color=0d2b0d&hide_border=false&border_color=1a3a1a&custom_title=Contribution+Graph&radius=6" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=scrpdtv&bg_color=000000&color=4ade80&line=4ade80&point=4ade80&area=true&area_color=0d2b0d&hide_border=false&border_color=1a3a1a&custom_title=Contribution+Graph&radius=6&hide_title=false" width="100%"/>
 
 </div>
 
