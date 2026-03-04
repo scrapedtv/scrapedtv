@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=4ADE80&center=true&vCenter=true&width=700&lines=Hey.+Ich+bin+ScrapedTV.+%F0%9F%91%8B;Discord+Bots%2C+die+wirklich+funktionieren.+%F0%9F%A4%96;Minecraft+Plugins+%26+Skripts+von+Grund+auf.+%E2%9B%8F%EF%B8%8F;Webseiten%2C+die+man+sich+merkt.+%F0%9F%8C%90;MelonCity+%F0%9F%8D%89+%E2%80%94+meloncity.de;Einfach+schreiben%2C+wenn+du+was+brauchst.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=4ADE80&center=true&vCenter=true&width=700&lines=Hey.+Ich+bin+ScrapedTV.+%F0%9F%91%8B;Discord+Bots%2C+die+wirklich+funktionieren.+%F0%9F%A4%96;Dev+f%C3%BCr+Cookie+%E2%80%94+Feature-reicher+Discord+Bot;Minecraft+Plugin+%26+Skript+Developer+%E2%9B%8F%EF%B8%8F;MelonCity+%F0%9F%8D%89+%E2%80%94+meloncity.de;Stylische+%26+performante+Webseiten.+%F0%9F%8C%90;Fullstack+%E2%80%94+Frontend+%2B+Backend;Einfach+schreiben%2C+wenn+du+was+brauchst.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,33 +14,17 @@
 &nbsp;
 <a href="mailto:scrpdtv@gmail.com"><img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Mail-scrpdtv%40gmail.com-4ade80?style=for-the-badge&logo=gmail&logoColor=4ade80&labelColor=0a0f0a"/></a>
 
-<br/><br/>
-
 </div>
-
----
-
-<div align="center">
-
-```
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
- ░                                                            ░
- ░   Ich entwickle Discord Bots, Minecraft Plugins           ░
- ░   und Webseiten. Sauber. Strukturiert. Produktionsreif.   ░
- ░   Meld dich einfach, wenn du was brauchst.                ░
- ░                                                            ░
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
-
-</div>
-
----
 
 <br/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=scrpdtv&show_icons=true&bg_color=000000&border_color=1a3a1a&title_color=4ade80&text_color=9ca3af&icon_color=4ade80&hide_border=false&rank_icon=github&custom_title=GitHub+Stats" width="420"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4ade80&height=2" width="100%"/>
+
+<br/>
 
 ### `{ whoami }`
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=scrpdtv&show_icons=true&bg_color=000000&border_color=1a3a1a&title_color=4ade80&text_color=9ca3af&icon_color=4ade80&hide_border=false&rank_icon=github&custom_title=GitHub+Stats" width="420"/>
 
 ```python
 class ScrapedTV:
@@ -64,33 +48,36 @@ class ScrapedTV:
     kontakt   = "scrpdtv@gmail.com"
     discord   = "discord.gg/meloncity"
     mc        = "meloncity.de"
+    motto     = "Kein Kompromiss bei der Qualität."
 ```
 
 <br clear="right"/>
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4ade80&height=2" width="100%"/>
 
 <br/>
 
 ### `{ über mich }`
 
-<img align="left" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scrpdtv&layout=compact&bg_color=000000&border_color=1a3a1a&title_color=4ade80&text_color=9ca3af&hide_border=false&langs_count=8" />
+<img align="left" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scrpdtv&layout=compact&bg_color=000000&border_color=1a3a1a&title_color=4ade80&text_color=9ca3af&hide_border=false&langs_count=8"/>
 
 Ich bin ScrapedTV und entwickle seit ein paar Jahren Sachen, die tatsächlich funktionieren.
 
-Angefangen mit Discord Bots, die ich von Grund auf selbst aufgebaut habe. Eigene Datenbankanbindung, eigene Struktur, kein Copy Paste. Aktuell bin ich Dev für **Cookie**, einem Feature-reichen Bot mit Economy System, Components V2 und mehr.
+Angefangen mit Discord Bots, von Grund auf selbst aufgebaut. Eigene Datenbankanbindung, eigene Struktur, kein Copy Paste. Aktuell dev für **Cookie**, einem Feature-reichen Economy Bot.
 
-Parallel dazu entwickle ich für **MelonCity** eigene Minecraft Plugins in Java mit der Spigot API und custom Skripts, die direkt auf dem Server laufen.
+Parallel dazu eigene Minecraft Plugins in Java mit der Spigot API und custom Skripts für **MelonCity**, einem CityBuild Server mit einer liebevollen Community, der mir sehr am Herzen liegt.
 
-Webseiten sind meine dritte Baustelle. Frontend ist meine Stärke, ich baue Seiten die stylisch sind und eine gute UX haben. Backend läuft mit Node.js und Express.
+Webseiten sind meine dritte Baustelle. Frontend ist meine Stärke, ich baue Seiten, die stylisch sind und eine gute UX haben. Backend läuft mit Node.js und Express.
+
+Für Projekte, Zusammenarbeit oder einfach nur Austausch, einfach schreiben.
 
 <br clear="left"/>
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4ade80&height=2" width="100%"/>
 
 <br/>
 
@@ -98,33 +85,17 @@ Webseiten sind meine dritte Baustelle. Frontend ist meine Stärke, ich baue Seit
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark&perline=6"/>
 
-**Sprachen**
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,git,github,vscode&theme=dark&perline=6"/>
 
-</td>
-<td align="center" width="33%">
+<br/><br/>
 
-**Frameworks & Tools**
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,pycharm,idea&theme=dark&perline=6"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,git,github,discord&theme=dark" />
-
-</td>
-<td align="center" width="33%">
-
-**Datenbanken**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" />
-
-</td>
-</tr>
-</table>
-
-<br/>
+<br/><br/>
 
 **── Discord & Minecraft ──**
 
@@ -133,87 +104,41 @@ Webseiten sind meine dritte Baustelle. Frontend ist meine Stärke, ich baue Seit
 <img src="https://img.shields.io/badge/Paper-000000?style=for-the-badge&logo=bookstack&logoColor=4ade80&labelColor=000000"/>
 <img src="https://img.shields.io/badge/Skript-000000?style=for-the-badge&logo=scratch&logoColor=4ade80&labelColor=000000"/>
 
-<br/>
-
-**── Web ──**
-
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=4ade80&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=4ade80&labelColor=000000"/>
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=4ade80&labelColor=000000"/>
-<img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=4ade80&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=4ade80&labelColor=000000"/>
-
-<br/>
-
-**── Datenbanken ──**
-
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4ade80&labelColor=000000"/>
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4ade80&labelColor=000000"/>
-<img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=4ade80&labelColor=000000"/>
-
-<br/>
-
-**── Tools ──**
-
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=4ade80&labelColor=000000"/>
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=4ade80&labelColor=000000"/>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=4ade80&labelColor=000000"/>
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=4ade80&labelColor=000000"/>
-<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=4ade80&labelColor=000000"/>
-
 </div>
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4ade80&height=2" width="100%"/>
 
 <br/>
 
 ### `{ projekte }`
 
-<div align="center">
-
-
-</div>
-
-<br/>
-
 <table>
 <tr>
 <td width="50%" valign="top">
-
 <div align="center">
 
 ## 🍪 Cookie
 
-</div>
-
-Feature-reicher Discord Bot mit vollem Economy System, Discord Components V2, Shop, Mini Games, Bake System, Orders, Events und mehr. Produktionsreif, stabil, läuft rund.
+Feature-reicher Discord Bot mit vollem Economy System, Discord Components V2, Shop, Mini Games, Bake System, Orders und Events. Produktionsreif und stabil.
 
 <br/>
-
-<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=4ade80)
 ![Pycord](https://img.shields.io/badge/Pycord-000?style=flat-square&logo=discord&logoColor=4ade80)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=4ade80)
 
 </div>
-
 </td>
 <td width="50%" valign="top">
-
 <div align="center">
 
 ## 🍉 MelonCity
 
-</div>
-
-CityBuild Minecraft Server mit vollständig selbst entwickelten Plugins in Java und custom Skripts. Eigene Systeme, eigene Mechaniken, nichts von der Stange. Schau vorbei auf meloncity.de.
+Mein liebstes Minecraft Projekt. Ein CityBuild Server mit einer liebevollen Community, custom Plugins und Skripts. Nichts von der Stange, alles mit Herzblut gebaut.
 
 <br/>
-
-<div align="center">
 
 ![Java](https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk&logoColor=4ade80)
 ![Spigot](https://img.shields.io/badge/Spigot-000?style=flat-square&logo=craftcms&logoColor=4ade80)
@@ -224,14 +149,13 @@ CityBuild Minecraft Server mit vollständig selbst entwickelten Plugins in Java 
 [![Website](https://img.shields.io/badge/Website-000?style=flat-square&logo=googlechrome&logoColor=4ade80)](https://meloncity.de)
 
 </div>
-
 </td>
 </tr>
 </table>
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4ade80&height=2" width="100%"/>
 
 <br/>
 
@@ -243,13 +167,13 @@ CityBuild Minecraft Server mit vollständig selbst entwickelten Plugins in Java 
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=scrpdtv&bg_color=000000&color=4ade80&line=4ade80&point=4ade80&area=true&area_color=0d2b0d&hide_border=false&border_color=1a3a1a&custom_title=Contribution+Graph&radius=6&hide_title=false" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=scrpdtv&bg_color=000000&color=4ade80&line=4ade80&point=4ade80&area=true&area_color=0d2b0d&hide_border=false&border_color=1a3a1a&custom_title=Contribution+Graph&radius=6" width="100%"/>
 
 </div>
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4ade80&height=2" width="100%"/>
 
 <br/>
 
@@ -257,7 +181,7 @@ CityBuild Minecraft Server mit vollständig selbst entwickelten Plugins in Java 
 
 <div align="center">
 
-Einfach melden, wenn du ein Projekt hast oder zusammenarbeiten möchtest. Bin offen für alles, was interessant ist.
+Einfach melden, wenn du ein Projekt hast, Bock auf Zusammenarbeit hast oder einfach quatschen willst. Ich bin offen für alles was interessant ist.
 
 <br/>
 
@@ -273,7 +197,8 @@ Einfach melden, wenn du ein Projekt hast oder zusammenarbeiten möchtest. Bin of
 
 ![](https://komarev.com/ghpvc/?username=scrpdtv&style=for-the-badge&color=4ade80&labelColor=000000&label=PROFILAUFRUFE)
 
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0a1a0a,80:0d2b0d,100:000000&height=140&section=footer" width="100%"/>
-
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0a1a0a,80:0d2b0d,100:000000&height=140&section=footer" width="100%"/>
