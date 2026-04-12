@@ -21,20 +21,16 @@
 
 <br/><br/>
 
-<img src="./assets/divider.svg" width="50%"/>
-
-<br/><br/>
-
 **MelonCity Developer** &nbsp;·&nbsp; since 29.10.2025
 
 <br/>
 
 [![Discord](https://img.shields.io/badge/discord.gg%2Fmeloncity-166534?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/meloncity)
-
-<br/><br/>
-
+&nbsp;
 ![](https://komarev.com/ghpvc/?username=scrpdtv&style=for-the-badge&color=166534&labelColor=0a0f0a&label=PROFILE+VIEWS)
 
 <br/><br/>
+
+<img src="./assets/animated.svg" width="100%"/>
 
 </div>
