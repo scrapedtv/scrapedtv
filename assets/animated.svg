@@ -31,8 +31,11 @@
     </clipPath>
   </defs>
 
+  <!-- Background -->
   <rect width="1200" height="160" fill="#000000"/>
   <rect width="1200" height="160" fill="url(#fadeUp)"/>
+
+  <!-- Grid -->
   <g opacity="0.07" stroke="#4ade80" stroke-width="0.4">
     <line x1="0" y1="40" x2="1200" y2="40"/>
     <line x1="0" y1="80" x2="1200" y2="80"/>
@@ -46,14 +49,17 @@
     <line x1="1050" y1="0" x2="1050" y2="160"/>
   </g>
 
+  <!-- Scan line -->
   <rect x="0" y="0" width="1200" height="160" fill="url(#scanGrad)" clip-path="url(#svgClip)">
     <animateTransform attributeName="transform" type="translate" from="-1200 0" to="1200 0" dur="3.5s" repeatCount="indefinite"/>
   </rect>
 
+  <!-- Horizontal pulse line -->
   <line x1="0" y1="80" x2="1200" y2="80" stroke="url(#lineH)" stroke-width="1">
     <animate attributeName="opacity" values="0.2;0.8;0.2" dur="4s" repeatCount="indefinite"/>
   </line>
 
+  <!-- Corner brackets - top left -->
   <g filter="url(#glow)">
     <polyline points="30,55 30,30 55,30" fill="none" stroke="#4ade80" stroke-width="1.5">
       <animate attributeName="opacity" values="1;0.4;1" dur="3s" repeatCount="indefinite"/>
@@ -63,6 +69,7 @@
     </circle>
   </g>
 
+  <!-- Corner brackets - top right -->
   <g filter="url(#glow)">
     <polyline points="1170,55 1170,30 1145,30" fill="none" stroke="#4ade80" stroke-width="1.5">
       <animate attributeName="opacity" values="1;0.4;1" dur="3s" begin="0.5s" repeatCount="indefinite"/>
@@ -72,18 +79,21 @@
     </circle>
   </g>
 
+  <!-- Corner brackets - bottom left -->
   <g filter="url(#glow)">
     <polyline points="30,105 30,130 55,130" fill="none" stroke="#4ade80" stroke-width="1.5" opacity="0.4">
       <animate attributeName="opacity" values="0.4;0.15;0.4" dur="3s" repeatCount="indefinite"/>
     </polyline>
   </g>
 
+  <!-- Corner brackets - bottom right -->
   <g filter="url(#glow)">
     <polyline points="1170,105 1170,130 1145,130" fill="none" stroke="#4ade80" stroke-width="1.5" opacity="0.4">
       <animate attributeName="opacity" values="0.4;0.15;0.4" dur="3s" begin="0.5s" repeatCount="indefinite"/>
     </polyline>
   </g>
 
+  <!-- Floating code snippets left -->
   <text x="80" y="72" font-family="'Courier New',monospace" font-size="10" fill="#4ade80" opacity="0">
     on join:
     <animate attributeName="opacity" values="0;0.35;0.35;0" dur="8s" begin="0s" repeatCount="indefinite"/>
@@ -93,6 +103,7 @@
     <animate attributeName="opacity" values="0;0.3;0.3;0" dur="8s" begin="0.3s" repeatCount="indefinite"/>
   </text>
 
+  <!-- Floating code snippets right -->
   <text x="950" y="72" font-family="'Courier New',monospace" font-size="10" fill="#4ade80" opacity="0">
     plugin.yml
     <animate attributeName="opacity" values="0;0.35;0.35;0" dur="8s" begin="4s" repeatCount="indefinite"/>
@@ -102,6 +113,7 @@
     <animate attributeName="opacity" values="0;0.3;0.3;0" dur="8s" begin="4.3s" repeatCount="indefinite"/>
   </text>
 
+  <!-- Center pulsing dot cluster -->
   <g filter="url(#glow2)">
     <circle cx="600" cy="80" r="3.5" fill="#4ade80">
       <animate attributeName="r" values="3.5;5;3.5" dur="2s" repeatCount="indefinite"/>
@@ -117,6 +129,7 @@
     </circle>
   </g>
 
+  <!-- Side dots animated -->
   <circle cx="200" cy="80" r="1.5" fill="#4ade80">
     <animate attributeName="opacity" values="0;0.6;0" dur="5s" begin="0s" repeatCount="indefinite"/>
   </circle>
@@ -136,6 +149,7 @@
     <animate attributeName="opacity" values="0;0.6;0" dur="5s" begin="2.5s" repeatCount="indefinite"/>
   </circle>
 
+  <!-- Vertical data streams -->
   <g font-family="'Courier New',monospace" font-size="9" fill="#4ade80" text-anchor="middle" clip-path="url(#svgClip)">
     <text x="250" y="0" opacity="0.2">
       1<tspan dy="12" x="250">0</tspan><tspan dy="12" x="250">1</tspan><tspan dy="12" x="250">1</tspan><tspan dy="12" x="250">0</tspan>
