@@ -1,172 +1,86 @@
-<svg width="1200" height="160" viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="scanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#4ade80" stop-opacity="0"/>
-      <stop offset="40%" stop-color="#4ade80" stop-opacity="0.08"/>
-      <stop offset="50%" stop-color="#4ade80" stop-opacity="0.35"/>
-      <stop offset="60%" stop-color="#4ade80" stop-opacity="0.08"/>
-      <stop offset="100%" stop-color="#4ade80" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="lineH" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#4ade80" stop-opacity="0"/>
-      <stop offset="20%" stop-color="#4ade80" stop-opacity="0.5"/>
-      <stop offset="50%" stop-color="#4ade80" stop-opacity="1"/>
-      <stop offset="80%" stop-color="#4ade80" stop-opacity="0.5"/>
-      <stop offset="100%" stop-color="#4ade80" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="fadeUp" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#000000" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="2.5" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="glow2">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <clipPath id="svgClip">
-      <rect width="1200" height="160"/>
-    </clipPath>
-  </defs>
-
-  <!-- Background -->
-  <rect width="1200" height="160" fill="#000000"/>
-  <rect width="1200" height="160" fill="url(#fadeUp)"/>
-
-  <!-- Grid -->
-  <g opacity="0.07" stroke="#4ade80" stroke-width="0.4">
-    <line x1="0" y1="40" x2="1200" y2="40"/>
-    <line x1="0" y1="80" x2="1200" y2="80"/>
-    <line x1="0" y1="120" x2="1200" y2="120"/>
-    <line x1="150" y1="0" x2="150" y2="160"/>
-    <line x1="300" y1="0" x2="300" y2="160"/>
-    <line x1="450" y1="0" x2="450" y2="160"/>
-    <line x1="600" y1="0" x2="600" y2="160"/>
-    <line x1="750" y1="0" x2="750" y2="160"/>
-    <line x1="900" y1="0" x2="900" y2="160"/>
-    <line x1="1050" y1="0" x2="1050" y2="160"/>
-  </g>
-
-  <!-- Scan line -->
-  <rect x="0" y="0" width="1200" height="160" fill="url(#scanGrad)" clip-path="url(#svgClip)">
-    <animateTransform attributeName="transform" type="translate" from="-1200 0" to="1200 0" dur="3.5s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- Horizontal pulse line -->
-  <line x1="0" y1="80" x2="1200" y2="80" stroke="url(#lineH)" stroke-width="1">
-    <animate attributeName="opacity" values="0.2;0.8;0.2" dur="4s" repeatCount="indefinite"/>
-  </line>
-
-  <!-- Corner brackets - top left -->
-  <g filter="url(#glow)">
-    <polyline points="30,55 30,30 55,30" fill="none" stroke="#4ade80" stroke-width="1.5">
-      <animate attributeName="opacity" values="1;0.4;1" dur="3s" repeatCount="indefinite"/>
-    </polyline>
-    <circle cx="30" cy="30" r="2" fill="#4ade80">
-      <animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-
-  <!-- Corner brackets - top right -->
-  <g filter="url(#glow)">
-    <polyline points="1170,55 1170,30 1145,30" fill="none" stroke="#4ade80" stroke-width="1.5">
-      <animate attributeName="opacity" values="1;0.4;1" dur="3s" begin="0.5s" repeatCount="indefinite"/>
-    </polyline>
-    <circle cx="1170" cy="30" r="2" fill="#4ade80">
-      <animate attributeName="opacity" values="1;0.2;1" dur="3s" begin="0.5s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-
-  <!-- Corner brackets - bottom left -->
-  <g filter="url(#glow)">
-    <polyline points="30,105 30,130 55,130" fill="none" stroke="#4ade80" stroke-width="1.5" opacity="0.4">
-      <animate attributeName="opacity" values="0.4;0.15;0.4" dur="3s" repeatCount="indefinite"/>
-    </polyline>
-  </g>
-
-  <!-- Corner brackets - bottom right -->
-  <g filter="url(#glow)">
-    <polyline points="1170,105 1170,130 1145,130" fill="none" stroke="#4ade80" stroke-width="1.5" opacity="0.4">
-      <animate attributeName="opacity" values="0.4;0.15;0.4" dur="3s" begin="0.5s" repeatCount="indefinite"/>
-    </polyline>
-  </g>
-
-  <!-- Floating code snippets left -->
-  <text x="80" y="72" font-family="'Courier New',monospace" font-size="10" fill="#4ade80" opacity="0">
-    on join:
-    <animate attributeName="opacity" values="0;0.35;0.35;0" dur="8s" begin="0s" repeatCount="indefinite"/>
-  </text>
-  <text x="80" y="86" font-family="'Courier New',monospace" font-size="10" fill="#4b7c4b" opacity="0">
-    &nbsp;&nbsp;send "Welcome"
-    <animate attributeName="opacity" values="0;0.3;0.3;0" dur="8s" begin="0.3s" repeatCount="indefinite"/>
-  </text>
-
-  <!-- Floating code snippets right -->
-  <text x="950" y="72" font-family="'Courier New',monospace" font-size="10" fill="#4ade80" opacity="0">
-    plugin.yml
-    <animate attributeName="opacity" values="0;0.35;0.35;0" dur="8s" begin="4s" repeatCount="indefinite"/>
-  </text>
-  <text x="950" y="86" font-family="'Courier New',monospace" font-size="10" fill="#4b7c4b" opacity="0">
-    version: 2.13.2
-    <animate attributeName="opacity" values="0;0.3;0.3;0" dur="8s" begin="4.3s" repeatCount="indefinite"/>
-  </text>
-
-  <!-- Center pulsing dot cluster -->
-  <g filter="url(#glow2)">
-    <circle cx="600" cy="80" r="3.5" fill="#4ade80">
-      <animate attributeName="r" values="3.5;5;3.5" dur="2s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="600" cy="80" r="10" fill="none" stroke="#4ade80" stroke-width="0.8">
-      <animate attributeName="r" values="8;18;8" dur="2s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.5;0;0.5" dur="2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="600" cy="80" r="20" fill="none" stroke="#4ade80" stroke-width="0.4">
-      <animate attributeName="r" values="16;30;16" dur="2s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.25;0;0.25" dur="2s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-
-  <!-- Side dots animated -->
-  <circle cx="200" cy="80" r="1.5" fill="#4ade80">
-    <animate attributeName="opacity" values="0;0.6;0" dur="5s" begin="0s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="350" cy="80" r="1" fill="#4ade80">
-    <animate attributeName="opacity" values="0;0.4;0" dur="5s" begin="1s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="480" cy="80" r="1.5" fill="#4ade80">
-    <animate attributeName="opacity" values="0;0.5;0" dur="5s" begin="2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="720" cy="80" r="1.5" fill="#4ade80">
-    <animate attributeName="opacity" values="0;0.5;0" dur="5s" begin="0.5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="850" cy="80" r="1" fill="#4ade80">
-    <animate attributeName="opacity" values="0;0.4;0" dur="5s" begin="1.5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="1000" cy="80" r="1.5" fill="#4ade80">
-    <animate attributeName="opacity" values="0;0.6;0" dur="5s" begin="2.5s" repeatCount="indefinite"/>
-  </circle>
-
-  <!-- Vertical data streams -->
-  <g font-family="'Courier New',monospace" font-size="9" fill="#4ade80" text-anchor="middle" clip-path="url(#svgClip)">
-    <text x="250" y="0" opacity="0.2">
-      1<tspan dy="12" x="250">0</tspan><tspan dy="12" x="250">1</tspan><tspan dy="12" x="250">1</tspan><tspan dy="12" x="250">0</tspan>
-      <animateTransform attributeName="transform" type="translate" from="0 -60" to="0 170" dur="4s" begin="0s" repeatCount="indefinite"/>
-    </text>
-    <text x="450" y="0" opacity="0.15">
-      S<tspan dy="12" x="450">K</tspan><tspan dy="12" x="450">R</tspan><tspan dy="12" x="450">P</tspan><tspan dy="12" x="450">T</tspan>
-      <animateTransform attributeName="transform" type="translate" from="0 -60" to="0 170" dur="5s" begin="1s" repeatCount="indefinite"/>
-    </text>
-    <text x="760" y="0" opacity="0.15">
-      J<tspan dy="12" x="760">A</tspan><tspan dy="12" x="760">V</tspan><tspan dy="12" x="760">A</tspan><tspan dy="12" x="760">!</tspan>
-      <animateTransform attributeName="transform" type="translate" from="0 -60" to="0 170" dur="4.5s" begin="2s" repeatCount="indefinite"/>
-    </text>
-    <text x="960" y="0" opacity="0.2">
-      0<tspan dy="12" x="960">1</tspan><tspan dy="12" x="960">0</tspan><tspan dy="12" x="960">0</tspan><tspan dy="12" x="960">1</tspan>
-      <animateTransform attributeName="transform" type="translate" from="0 -60" to="0 170" dur="3.8s" begin="0.8s" repeatCount="indefinite"/>
-    </text>
-  </g>
-
+<svg width="1200" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
+<style>
+@keyframes scan{0%{transform:translateX(-1200px)}100%{transform:translateX(2400px)}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:0.3}}
+@keyframes pulseRing{0%{r:6;opacity:0.6}100%{r:28;opacity:0}}
+@keyframes pulseRing2{0%{r:4;opacity:0.4}100%{r:20;opacity:0}}
+@keyframes blink{0%,100%{opacity:0.7}50%{opacity:0.15}}
+@keyframes blinkB{0%,100%{opacity:0.6}50%{opacity:0.1}}
+@keyframes fadeFlow{0%,100%{opacity:0}30%,70%{opacity:0.5}}
+@keyframes fadeFlowB{0%,100%{opacity:0}30%,70%{opacity:0.35}}
+@keyframes drop{0%{transform:translateY(-60px);opacity:0}15%{opacity:0.25}85%{opacity:0.25}100%{transform:translateY(140px);opacity:0}}
+.scan{animation:scan 3.5s linear infinite}
+.dot-c{animation:pulse 2s ease-in-out infinite}
+.ring1{animation:pulseRing 2s ease-out infinite}
+.ring2{animation:pulseRing2 2s ease-out infinite 0.4s}
+.brk1{animation:blink 3s ease-in-out infinite}
+.brk2{animation:blinkB 3s ease-in-out infinite 0.5s}
+.fc1{animation:fadeFlow 8s ease-in-out infinite}
+.fc2{animation:fadeFlowB 8s ease-in-out infinite 4s}
+.drop1{animation:drop 4s linear infinite}
+.drop2{animation:drop 5s linear infinite 1s}
+.drop3{animation:drop 4.5s linear infinite 2s}
+.drop4{animation:drop 3.8s linear infinite 0.8s}
+</style>
+<defs>
+<linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#000000"/>
+<stop offset="100%" stop-color="#030a03"/>
+</linearGradient>
+<linearGradient id="lg" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#4ade80" stop-opacity="0"/>
+<stop offset="20%" stop-color="#4ade80" stop-opacity="0.5"/>
+<stop offset="50%" stop-color="#4ade80" stop-opacity="1"/>
+<stop offset="80%" stop-color="#4ade80" stop-opacity="0.5"/>
+<stop offset="100%" stop-color="#4ade80" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="scanG" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#4ade80" stop-opacity="0"/>
+<stop offset="40%" stop-color="#4ade80" stop-opacity="0.06"/>
+<stop offset="50%" stop-color="#4ade80" stop-opacity="0.28"/>
+<stop offset="60%" stop-color="#4ade80" stop-opacity="0.06"/>
+<stop offset="100%" stop-color="#4ade80" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="clip"><rect width="1200" height="120"/></clipPath>
+</defs>
+<rect width="1200" height="120" fill="url(#bg2)"/>
+<g opacity="0.06" stroke="#4ade80" stroke-width="0.4">
+<line x1="0" y1="30" x2="1200" y2="30"/>
+<line x1="0" y1="60" x2="1200" y2="60"/>
+<line x1="0" y1="90" x2="1200" y2="90"/>
+<line x1="200" y1="0" x2="200" y2="120"/>
+<line x1="400" y1="0" x2="400" y2="120"/>
+<line x1="600" y1="0" x2="600" y2="120"/>
+<line x1="800" y1="0" x2="800" y2="120"/>
+<line x1="1000" y1="0" x2="1000" y2="120"/>
+</g>
+<rect class="scan" x="0" y="0" width="300" height="120" fill="url(#scanG)" clip-path="url(#clip)"/>
+<line x1="0" y1="60" x2="1200" y2="60" stroke="url(#lg)" stroke-width="0.8"/>
+<g clip-path="url(#clip)" font-family="Courier New,monospace" font-size="9" fill="#4ade80" text-anchor="middle">
+<text class="drop1" x="220">1<tspan x="220" dy="11">0</tspan><tspan x="220" dy="11">1</tspan><tspan x="220" dy="11">0</tspan><tspan x="220" dy="11">1</tspan></text>
+<text class="drop2" x="430">S<tspan x="430" dy="11">K</tspan><tspan x="430" dy="11">R</tspan><tspan x="430" dy="11">P</tspan><tspan x="430" dy="11">T</tspan></text>
+<text class="drop3" x="780">J<tspan x="780" dy="11">A</tspan><tspan x="780" dy="11">V</tspan><tspan x="780" dy="11">A</tspan></text>
+<text class="drop4" x="990">0<tspan x="990" dy="11">1</tspan><tspan x="990" dy="11">1</tspan><tspan x="990" dy="11">0</tspan><tspan x="990" dy="11">0</tspan></text>
+</g>
+<g class="brk1" stroke="#4ade80" stroke-width="1.5" fill="none">
+<polyline points="30,40 30,18 52,18"/>
+<polyline points="30,80 30,102 52,102"/>
+<circle cx="30" cy="18" r="2" fill="#4ade80" stroke="none"/>
+</g>
+<g class="brk2" stroke="#4ade80" stroke-width="1.5" fill="none">
+<polyline points="1170,40 1170,18 1148,18"/>
+<polyline points="1170,80 1170,102 1148,102"/>
+<circle cx="1170" cy="18" r="2" fill="#4ade80" stroke="none"/>
+</g>
+<circle class="dot-c" cx="600" cy="60" r="3.5" fill="#4ade80"/>
+<circle class="ring1" cx="600" cy="60" r="6" fill="none" stroke="#4ade80" stroke-width="0.8"/>
+<circle class="ring2" cx="600" cy="60" r="4" fill="none" stroke="#4ade80" stroke-width="0.5"/>
+<g class="fc1" font-family="Courier New,monospace" font-size="9.5" fill="#4ade80">
+<text x="100" y="56">on join:</text>
+<text x="100" y="69" fill="#4b7c4b">  send "Welcome"</text>
+</g>
+<g class="fc2" font-family="Courier New,monospace" font-size="9.5" fill="#4ade80">
+<text x="920" y="56">skript 2.13.2</text>
+<text x="920" y="69" fill="#4b7c4b">  // no limits</text>
+</g>
 </svg>
