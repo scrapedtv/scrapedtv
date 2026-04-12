@@ -31,6 +31,6 @@
 
 <br/><br/>
 
-<img src="./assets/animated.svg" width="100%"/>
+<img src="./assets/animated.gif" width="100%"/>
 
 </div>
