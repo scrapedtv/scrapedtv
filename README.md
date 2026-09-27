@@ -35,7 +35,6 @@ Ich bin Website Developer mit Fokus auf Frontend und Backend Entwicklung. Am lie
 - 👨‍💻 Alle meine Projekte findest du auf meinem GitHub-Profil
 - 💬 Frag mich gerne zu **HTML, CSS, JavaScript, Node.js, Express und PHP**
 - 📫 So erreichst du mich: **Discord @_scrpdtv**
-- ⚡ Fun Fact: **Ich probiere gerne neue Web-Technologien aus, bevor ich sie richtig brauche**
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
