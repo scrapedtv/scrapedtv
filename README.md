@@ -2,11 +2,11 @@
   <img src="./banner.png" alt="ScrapedTV Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, ich bin ScrapedTV</h1>
+<h1 align="center">Hi, ich bin ScrapedTV ;)</h1>
 <h3 align="center">Ein junger Website Developer</h3>
 
 <p align="center">
-Ich bin Website Developer und beschäftige mich mit Frontend- und Backend-Entwicklung. Am liebsten baue ich Websites und kleine Web-Tools – von der Optik bis zur Logik dahinter. Aktuell dreht sich bei mir alles um HTML, CSS, JavaScript und Node.js mit Express, dazu ab und zu ein bisschen PHP.
+Ich bin Website Developer und beschäftige mich mit Frontend- und Backend-Entwicklung. Am liebsten baue ich Websites und kleine Web-Tools, von der Optik bis zur Logik dahinter. Aktuell dreht sich bei mir alles um HTML, CSS, JavaScript und Node.js mit Express, dazu ab und zu ein bisschen PHP.
 </p>
 
 <p align="center">
@@ -38,19 +38,11 @@ Ich bin Website Developer und beschäftige mich mit Frontend- und Backend-Entwic
 
 - 💬 Frag mich gerne zu **HTML, CSS, JavaScript, Node.js, Express und PHP**
 
-- 📫 So erreichst du mich: **deine-email@beispiel.com**
+- 📫 So erreichst du mich: **Discord @_scrpdtv**
 
 - ⚡ Fun Fact: **Ich probiere gerne neue Web-Technologien aus, bevor ich sie richtig brauche**
 
 <br>
-<h3 align="left">Connect with me:</h3>
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-<a href="https://discord.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ScrapedTV" width="40" /></a>
-<a href="https://instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ScrapedTV" width="40" /></a>
-<a href="https://youtube.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ScrapedTV" width="40" /></a>
-</div>
-<br>
-
 <h3 align="left">Languages and Tools:</h3>
 
 - Backend
@@ -76,7 +68,4 @@ Ich bin Website Developer und beschäftige mich mit Frontend- und Backend-Entwic
 
 <br/>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Ich freue mich immer über neue Kontakte</b>, also wenn du Hallo sagen willst – meld dich einfach! :)</em>
-
-<br>
-<p align="right"> Made with 🧡 by ScrapedTV</p>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Ich freue mich immer über neue Kontakte</b>, also wenn du Hallo sagen willst, meld dich einfach! :)</em>
