@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="./banner.png" alt="ScrapedTV Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, ich bin ScrapedTV</h1>
 <h3 align="center">Ein junger Website Developer</h3>
 
 <p align="center">
-Ich bin Website Developer und beschäftige mich mit Frontend und Backend Entwicklung. Am liebsten baue ich Websites und kleine Web Tools von der Optik bis zur Logik dahinter. Aktuell dreht sich bei mir alles um HTML, CSS, JavaScript und Node.js mit Express, dazu ab und zu ein bisschen PHP.
+Ich bin Website Developer und beschäftige mich mit Frontend- und Backend-Entwicklung. Am liebsten baue ich Websites und kleine Web-Tools – von der Optik bis zur Logik dahinter. Aktuell dreht sich bei mir alles um HTML, CSS, JavaScript und Node.js mit Express, dazu ab und zu ein bisschen PHP.
 </p>
 
 <p align="center">
