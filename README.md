@@ -6,11 +6,11 @@
 <h3 align="center">Ein junger Website Developer</h3>
 
 <p align="center">
-Ich bin Website Developer und beschäftige mich mit Frontend- und Backend-Entwicklung. Am liebsten baue ich Websites und kleine Web-Tools, von der Optik bis zur Logik dahinter. Aktuell dreht sich bei mir alles um HTML, CSS, JavaScript und Node.js mit Express, dazu ab und zu ein bisschen PHP.
+Ich bin Website Developer mit Fokus auf Frontend und Backend Entwicklung. Am liebsten baue ich Websites und Web Tools, von der Optik bis zur Logik dahinter. Mein technischer Schwerpunkt liegt auf HTML, CSS, JavaScript, Node.js mit Express und PHP. Für Kooperationen und gemeinsame Projekte bin ich jederzeit offen.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DEIN-GITHUB-NAME&label=Profile%20views&color=0e75b6&style=flat" alt="ScrapedTV" />
+  <img src="https://komarev.com/ghpvc/?username=scrapedtv&label=Profile%20views&color=0e75b6&style=flat" alt="ScrapedTV" />
 </p>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
@@ -31,15 +31,10 @@ Ich bin Website Developer und beschäftige mich mit Frontend- und Backend-Entwic
 <br><br>
 
 - 🔭 Ich arbeite aktuell an eigenen Website-Projekten
-
 - 🌱 Ich lerne gerade neue Node.js / Express Konzepte
-
 - 👨‍💻 Alle meine Projekte findest du auf meinem GitHub-Profil
-
 - 💬 Frag mich gerne zu **HTML, CSS, JavaScript, Node.js, Express und PHP**
-
 - 📫 So erreichst du mich: **Discord @_scrpdtv**
-
 - ⚡ Fun Fact: **Ich probiere gerne neue Web-Technologien aus, bevor ich sie richtig brauche**
 
 <br>
