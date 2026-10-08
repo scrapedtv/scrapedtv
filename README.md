@@ -71,7 +71,7 @@ Ich beschäftige mich hauptsächlich mit:
 
 Schreib mir gerne bei Fragen oder Projekten:
 
-* 💬 **Discord:** `_scrpdtv`
+* 💬 **Discord:** [@_scrpdtv](https://discord.com/users/260588365252919296)
 * ✉️ **E-Mail:** [scrpdtv@gmail.com](mailto:scrpdtv@gmail.com)
 * 🐙 **GitHub:** [github.com/scrapedtv](https://github.com/scrapedtv)
 
