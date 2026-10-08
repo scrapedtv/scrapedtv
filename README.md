@@ -29,7 +29,7 @@ Ich beschäftige mich hauptsächlich mit:
 * ⛏️ **Minecraft Mod und Plugin Entwicklung**, Fabric, NeoForge und PaperMC mit Java 21 und Java 25.
 * 🌐 **Minecraft Protocol und Architecture**
 * 💻 **Fullstack Web Development** mit TypeScript, Express.js und Next.js.
-* 🤖 **Discord Bots** und kleine Automation Tools mit Python.
+* 🤖 **Discord Bots** und kleine süße Tools mit Python.
 * 📱 **iOS Tweaks**, Jailbreaks und Sideloading.
 
 ---
